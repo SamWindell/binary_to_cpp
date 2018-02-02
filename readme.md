@@ -1,0 +1,2 @@
+
+Small program to convert a binary file into a cpp source file for easy embedding into your program. Pass the binary files you want converted and the output directory and it will generate a binary_data.h and binary_data.cpp.
